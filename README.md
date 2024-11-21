@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Onur!  
+# 👋 Welcome to My GitHub Profile!
 
 🎓 **Master's in Computer Science** | **Bachelor's in Electrical and Electronics Engineering**  
 💼 **Backend Developer with 2+ years of experience** | Algorithmic Trading Enthusiast  
