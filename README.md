@@ -4,8 +4,6 @@
 💼 **Backend Developer with 2+ years of experience** | Algorithmic Trading Enthusiast  
 🌟 Passionate about **Serverless Computing** and **Full-Stack Development**
 
----
-
 ## 🚀 About Me  
 
 - 📜 I wrote a **Master’s Thesis** on benchmarking serverless triggers in **AWS** and **Google Cloud Platform** for latency-sensitive applications.  
