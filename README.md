@@ -26,20 +26,13 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
 ## 🌟 Featured Projects  
 
-### [Serverless Trigger Benchmarking](https://github.com/your-repo)  
+### [Serverless Trigger Benchmarking]([https://github.com/your-repo](https://github.com/dervisonurgurbuz/triggerbenchResearch))  
 🔍 Research project comparing cold start latencies across AWS and GCP.  
 
 ---
 
 ## 📬 Let's Connect  
 
-- **LinkedIn**: [[Your LinkedIn](https://linkedin.com/in/your-profile)  ](https://www.linkedin.com/in/dervis-onur-gurbuz)
+- **LinkedIn**: https://www.linkedin.com/in/dervis-onur-gurbuz
